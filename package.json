@@ -1,5 +1,5 @@
 {
-  "name": "randomcolor",
+  "name": "randomColor",
   "version": "0.4.4",
   "description": "For generating attractive random colors",
   "main": "randomColor.js",
